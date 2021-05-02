@@ -6,6 +6,6 @@ The following code is written in Python using Matplotlib and native python. It s
 
 ![image](https://user-images.githubusercontent.com/67865361/116825535-0b68f400-ab90-11eb-8134-364601c5f1a1.png)
 
-For better approximation we use Mid Point method aka 'improved Euler method'
+For better approximation we solve differential equations using Mid Point method aka 'improved Euler method'
 
 
