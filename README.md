@@ -9,3 +9,35 @@ The following code is written in Python using Matplotlib and native python. It s
 For better approximation we solve differential equations using Mid Point method aka 'improved Euler method'
 
 
+
+-----------
+
+For input values like:
+# length
+L = m.pi
+
+# number of points
+n = 17
+
+# delta x
+dx = L / n
+
+# delta t (time difference)
+dt = 0.2
+
+# simple string oscillation function
+sin = m.sin
+
+
+the output looks like that:
+
+
+String motion plot:
+
+
+![image](https://user-images.githubusercontent.com/67865361/116827769-107f7080-ab9b-11eb-9343-017f80f5a1fb.png)
+
+Potential, Kinetik, Total energies:
+
+![image](https://user-images.githubusercontent.com/67865361/116827777-1c6b3280-ab9b-11eb-9f30-b365100c36c7.png)
+
